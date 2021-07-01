@@ -1,11 +1,11 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /*Integrantes:
     -Eleazar Vasquez
     -Manuel Jaramillo
     -Patricio Canales
 */
+#include <stdio.h>
+#include <stdlib.h>
+
 int field = 1;
 int main(){
     

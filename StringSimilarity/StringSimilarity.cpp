@@ -1,3 +1,8 @@
+/*Integrantes:
+    -Eleazar Vasquez
+    -Manuel Jaramillo
+    -Patricio Canales
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

@@ -1,3 +1,8 @@
+/*Integrantes:
+    -Eleazar Vasquez
+    -Manuel Jaramillo
+    -Patricio Canales
+*/
 #include <iostream>
 #include <vector>
 #include <string>
